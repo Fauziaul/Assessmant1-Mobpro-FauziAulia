@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hitung Balok</string>
+    <string name="KubusBalokIntro">Silahkan Masukkan Panjang, Tinggi, dan Lebar dari Balok yang akan dihitung Volume Dan Luas Permungkaannya!!!</string>
+    <string name="panjang">Panjang Balok (Cm)</string>
+    <string name="tinggi">Tinggi Balok (Cm)</string>
+    <string name="lebar">Lebar Balok (Cm)</string>
+    <string name="luas_x">Luas Permungkaan : %1$.2f</string>
+    <string name="volume">Volume : %1$.2f</string>
+    <string name="panjang_invalid">Masukkan Panjang Balok.</string>
+    <string name="tinggi_invalid">Masukkan Tinggi Balok.</string>
+    <string name="lebar_invalid">Masukkan Lebar Balok.</string>
+</resources>
